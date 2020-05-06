@@ -4,3 +4,5 @@ stand up
 sit down 
 turn left
 turn right
+jump up and down
+and sleep

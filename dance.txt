@@ -1,0 +1,6 @@
+Step left
+Step right
+stand up
+sit down 
+turn left
+turn right
